@@ -1,0 +1,26 @@
+/* custom-scrollbar.css */
+
+/* Set a width for the scrollbar track */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  
+  /* Set the color of the scrollbar handle */
+  ::-webkit-scrollbar-thumb {
+    background-color: #22feef60;
+    border-radius: 6px;
+    transition: all 0.2s;
+  }
+  
+  /* Set the background color of the scrollbar track */
+  ::-webkit-scrollbar-track {
+    background-color: #ce2af360;
+    border-radius: 6px;
+  }
+  
+  /* Set the background color of the scrollbar handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #7aec1c60;
+  }
+  

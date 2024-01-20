@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+    font-family: 'gilroy';
+}
+
+
+::selection{
+    color: rgb(248, 173, 52);
+}

@@ -1,0 +1,10 @@
+double tick ✅ 
+delete
+plus icon larger/smaller ✅ 
+plus icon functionality ✅
+plus icon true : cards (display none) ✅ 
+app's scroll behaviour
+ styling 
+ responsive
+ movable
+ 
